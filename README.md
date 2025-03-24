@@ -2,10 +2,9 @@
 
 **datos personales**
 
-Edad: 33 años
-Soltero
-Vigilador Privado
-Estudiantes de la Unpaz
-
+* Edad: 33 años
+* Soltero
+* Vigilador Privado
+* Estudiante universitario Unpaz
 
 
