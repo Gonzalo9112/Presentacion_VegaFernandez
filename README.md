@@ -1,4 +1,5 @@
 **Angel Gonzalo Vega Fernandez**
+![estaSoyYo](./img/yo.jpg)
 
 **datos personales**
 
