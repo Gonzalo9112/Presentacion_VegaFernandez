@@ -1,7 +1,7 @@
-**Angel Gonzalo Vega Fernandez**
+***Angel Gonzalo Vega Fernandez***
 ![estaSoyYo](./img/yo.jpg)
 
-**datos personales**
+***datos personales***
 
 * Edad: 33 años
 * Soltero
